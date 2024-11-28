@@ -1,0 +1,7 @@
++code/src/**/*.*
++code/config/**/secu*.*
++code/config/**/lexi*.*
++code/config/services.yaml
++code/.env
++code/composer.json
++code/users_table_information.sql
